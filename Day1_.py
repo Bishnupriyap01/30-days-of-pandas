@@ -1,3 +1,7 @@
+#Problem link _ https://leetcode.com/problems/big-countries/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata
+#595. Big Countries
+
+
 import pandas as pd
 
 def big_countries(world: pd.DataFrame) -> pd.DataFrame:
